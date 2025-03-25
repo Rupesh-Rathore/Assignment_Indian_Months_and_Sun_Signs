@@ -1,6 +1,7 @@
 # Assignment_Indian_Months_and_Sun_Signs
 A web-based project that displays Indian months and Indian sun signs with an interactive UI, supporting Hindi and English.
-DAY 1 :
+
+# DAY 1 :
   * Started the project by properly reading and understanding the given assignment.
   * The whole project revolves around 2 topics-
       1-The Indian Months(Hindu Nakshtra)
