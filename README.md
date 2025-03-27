@@ -20,3 +20,17 @@ A web-based project that displays Indian months and Indian sun signs with an int
  * Thirdly created another html file -"zodiac.html" which will contain all the Indian Sun-signsodiacs and their details but for now it only contains a button which helps to navigate back to home page.
  * At last created a javascript file -"script.js" to navigate from one web page to another on clicking the buttons.
    for now thats all i did .
+
+# DAY 3 :
+ * Firstly completed the code of "index.html" which displays the home page of the website. It contains name of the website , dropdown button changed to two button method to select the language -English/Hindi , two blocks to navigate to next pages.
+ * Secondaly changed the name of "months.html" to "month.html"
+    * Completed the code of "month.html".
+ * Thirdly Completed the code of "zodiac.html".
+ * Created a follder named "data".
+    * Added "month.json" file containing months details.
+    * Added "month.json" file containing months details.
+ * Created a folder "js" and moved the "script.js" to it .
+    * Completed the code of "script.js".
+    * Created a "month.js" file inside "js" and completed its code which helps to manipulate "month.html" and fetch data from it.
+    * Created a "zodiac.js" file inside "js" and completed its code which helps to manipulate "zodiac.html" and fetch data from it.
+      
