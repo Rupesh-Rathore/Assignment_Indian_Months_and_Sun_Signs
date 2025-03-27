@@ -3,24 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nakshatra Nexus</title>
+    <title>Nakshtra Nexus</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-   
-    <div class="container">
-        <header>
-            <h1>Nakshatra Nexus</h1>
-        </header>
-        <nav>
-            <select name="lang" id="lang">
-                <option value="hin">Hindi</option>
-                <option value="eng">English</option>
-            </select>
-        </nav>
-        <input type="submit" value="months" id="months">
-        <input type="submit" value="zodiacs" id="zodiacs" onclick="zodiac.html
-        ">
-</div>
+    <header>
+        <h1>Nakshtra Nexus</h1>
+        <div class="controls">
+            <div class="language-buttons">
+                <button class="language-btn active" id="englishBtn">English</button>
+                <button class="language-btn" id="hindiBtn">हिंदी</button>
+            </div>
+            <label class="toggle-switch">
+                <input type="checkbox" id="darkModeToggle">
+                <span class="slider"></span>
+            </label>
+        </div>
+    </header>
+    
+    <main>
+        <div class="button-container">
+            <a href="month.html" class="nav-button">Indian Months</a>
+            <a href="zodiac.html" class="nav-button">Indian Sun Signs</a>
+        </div>
+    </main>
+
+    <script src="js/script.js"></script>
 </body>
-<script src="script.js"></script>
 </html>
