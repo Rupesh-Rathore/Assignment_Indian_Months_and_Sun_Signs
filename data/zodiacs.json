@@ -1,0 +1,182 @@
+[
+    {
+        "name": {
+            "english": "Mesha (Aries)",
+            "hindi": "मेष (मेष राशि)"
+        },
+        "dates": {
+            "english": "April 14 - May 14",
+            "hindi": "14 अप्रैल - 14 मई"
+        },
+        "image": "Aries.jpg",
+        "description": {
+            "english": "Mesha is the first sign of the Indian zodiac, represented by the Ram. People born under this sign are known for their leadership qualities, courage, and enthusiasm.",
+            "hindi": "मेष भारतीय राशि चक्र का पहला चिन्ह है, जिसे मेढ़े द्वारा दर्शाया जाता है। इस राशि के लोग नेतृत्व गुणों, साहस और उत्साह के लिए जाने जाते हैं।"
+        }
+    },
+    {
+        "name": {
+            "english": "Vrishabha (Taurus)",
+            "hindi": "वृषभ (वृषभ राशि)"
+        },
+        "dates": {
+            "english": "May 15 - June 14",
+            "hindi": "15 मई - 14 जून"
+        },
+        "image": "Taurus.jpg",
+        "description": {
+            "english": "Vrishabha is represented by the Bull. Individuals born under this sign are typically reliable, patient, and practical, with a strong connection to material comforts.",
+            "hindi": "वृषभ को बैल द्वारा दर्शाया जाता है। इस राशि के जातक आमतौर पर विश्वसनीय, धैर्यवान और व्यावहारिक होते हैं, जो भौतिक सुखों से गहरा जुड़ाव रखते हैं।"
+        }
+    },
+    {
+        "name": {
+            "english": "Mithuna (Gemini)",
+            "hindi": "मिथुन (मिथुन राशि)"
+        },
+        "dates": {
+            "english": "June 15 - July 14",
+            "hindi": "15 जून - 14 जुलाई"
+        },
+        "image": "Gemini.jpg",
+        "description": {
+            "english": "Mithuna is symbolized by the Twins. Those born under this sign are often adaptable, communicative, and intellectually curious, with a dual nature.",
+            "hindi": "मिथुन को जुड़वां बच्चों द्वारा दर्शाया जाता है। इस राशि के लोग अक्सर अनुकूलनीय, संवादशील और बौद्धिक रूप से जिज्ञासु होते हैं, जिनमें द्वैध स्वभाव होता है।"
+        }
+    },
+    {
+        "name": {
+            "english": "Karka (Cancer)",
+            "hindi": "कर्क (कर्क राशि)"
+        },
+        "dates": {
+            "english": "July 15 - August 14",
+            "hindi": "15 जुलाई - 14 अगस्त"
+        },
+        "image": "Cancer.jpg",
+        "description": {
+            "english": "Karka is represented by the Crab. People of this sign are typically emotional, intuitive, and nurturing, with strong connections to home and family.",
+            "hindi": "कर्क को केकड़े द्वारा दर्शाया जाता है। इस राशि के लोग आमतौर पर भावुक, अंतर्ज्ञानी और पोषण करने वाले होते हैं, जो घर और परिवार से मजबूत जुड़ाव रखते हैं।"
+        }
+    },
+    {
+        "name": {
+            "english": "Simha (Leo)",
+            "hindi": "सिंह (सिंह राशि)"
+        },
+        "dates": {
+            "english": "August 15 - September 15",
+            "hindi": "15 अगस्त - 15 सितंबर"
+        },
+        "image": "Leo.jpg",
+        "description": {
+            "english": "Simha is symbolized by the Lion. Individuals born under this sign are often confident, generous, and natural leaders who enjoy being in the spotlight.",
+            "hindi": "सिंह को शेर द्वारा दर्शाया जाता है। इस राशि के जातक अक्सर आत्मविश्वासी, उदार और प्राकृतिक नेता होते हैं जो स्पॉटलाइट में रहना पसंद करते हैं।"
+        }
+    },
+    {
+        "name": {
+            "english": "Kanya (Virgo)",
+            "hindi": "कन्या (कन्या राशि)"
+        },
+        "dates": {
+            "english": "September 16 - October 15",
+            "hindi": "16 सितंबर - 15 अक्टूबर"
+        },
+        "image": "Virgo.jpg",
+        "description": {
+            "english": "Kanya is represented by the Virgin. Those born under this sign are typically analytical, practical, and detail-oriented, with a strong sense of service.",
+            "hindi": "कन्या को कुंवारी द्वारा दर्शाया जाता है। इस राशि के लोग आमतौर पर विश्लेषणात्मक, व्यावहारिक और विस्तार-उन्मुख होते हैं, जिनमें सेवा की प्रबल भावना होती है।"
+        }
+    },
+    {
+        "name": {
+            "english": "Tula (Libra)",
+            "hindi": "तुला (तुला राशि)"
+        },
+        "dates": {
+            "english": "October 16 - November 14",
+            "hindi": "16 अक्टूबर - 14 नवंबर"
+        },
+        "image": "Libra.jpg",
+        "description": {
+            "english": "Tula is symbolized by the Scales. People of this sign are often diplomatic, social, and fair-minded, with a strong sense of justice and balance.",
+            "hindi": "तुला को तराजू द्वारा दर्शाया जाता है। इस राशि के लोग अक्सर कूटनीतिक, सामाजिक और निष्पक्ष विचारों वाले होते हैं, जिनमें न्याय और संतुलन की प्रबल भावना होती है।"
+        }
+    },
+    {
+        "name": {
+            "english": "Vrishchika (Scorpio)",
+            "hindi": "वृश्चिक (वृश्चिक राशि)"
+        },
+        "dates": {
+            "english": "November 15 - December 14",
+            "hindi": "15 नवंबर - 14 दिसंबर"
+        },
+        "image": "Scorpio.jpg",
+        "description": {
+            "english": "Vrishchika is represented by the Scorpion. Individuals born under this sign are typically passionate, resourceful, and determined, with strong intuitive abilities.",
+            "hindi": "वृश्चिक को बिच्छू द्वारा दर्शाया जाता है। इस राशि के जातक आमतौर पर भावुक, साधन संपन्न और दृढ़ निश्चयी होते हैं, जिनमें मजबूत अंतर्ज्ञानी क्षमताएं होती हैं।"
+        }
+    },
+    {
+        "name": {
+            "english": "Dhanu (Sagittarius)",
+            "hindi": "धनु (धनु राशि)"
+        },
+        "dates": {
+            "english": "December 15 - January 13",
+            "hindi": "15 दिसंबर - 13 जनवरी"
+        },
+        "image": "Sagittarius.jpg",
+        "description": {
+            "english": "Dhanu is symbolized by the Archer. Those born under this sign are often optimistic, adventurous, and philosophical, with a love for freedom and exploration.",
+            "hindi": "धनु को धनुर्धर द्वारा दर्शाया जाता है। इस राशि के लोग अक्सर आशावादी, साहसी और दार्शनिक होते हैं, जिन्हें स्वतंत्रता और अन्वेषण का प्रेम होता है।"
+        }
+    },
+    {
+        "name": {
+            "english": "Makara (Capricorn)",
+            "hindi": "मकर (मकर राशि)"
+        },
+        "dates": {
+            "english": "January 14 - February 11",
+            "hindi": "14 जनवरी - 11 फरवरी"
+        },
+        "image": "Capricorn.jpg",
+        "description": {
+            "english": "Makara is represented by the Crocodile or Sea-Goat. People of this sign are typically disciplined, ambitious, and practical, with strong organizational skills.",
+            "hindi": "मकर को मगरमच्छ या समुद्री बकरी द्वारा दर्शाया जाता है। इस राशि के लोग आमतौर पर अनुशासित, महत्वाकांक्षी और व्यावहारिक होते हैं, जिनमें मजबूत संगठनात्मक कौशल होते हैं।"
+        }
+    },
+    {
+        "name": {
+            "english": "Kumbha (Aquarius)",
+            "hindi": "कुंभ (कुंभ राशि)"
+        },
+        "dates": {
+            "english": "February 12 - March 12",
+            "hindi": "12 फरवरी - 12 मार्च"
+        },
+        "image": "Aquarius.jpg",
+        "description": {
+            "english": "Kumbha is symbolized by the Water Bearer. Individuals born under this sign are often innovative, humanitarian, and independent thinkers with progressive ideas.",
+            "hindi": "कुंभ को कलश वाहक द्वारा दर्शाया जाता है। इस राशि के जातक अक्सर नवप्रवर्तक, मानवतावादी और स्वतंत्र विचारक होते हैं जिनके पास प्रगतिशील विचार होते हैं।"
+        }
+    },
+    {
+        "name": {
+            "english": "Meena (Pisces)",
+            "hindi": "मीन (मीन राशि)"
+        },
+        "dates": {
+            "english": "March 13 - April 13",
+            "hindi": "13 मार्च - 13 अप्रैल"
+        },
+        "image": "Pisces.jpg",
+        "description": {
+            "english": "Meena is represented by the Fish. Those born under this sign are typically compassionate, artistic, and intuitive, with a strong connection to the spiritual realm.",
+            "hindi": "मीन को मछली द्वारा दर्शाया जाता है। इस राशि के लोग आमतौर पर दयालु, कलात्मक और अंतर्ज्ञानी होते हैं, जिनका आध्यात्मिक क्षेत्र से गहरा जुड़ाव होता है।"
+        }
+    }
+]

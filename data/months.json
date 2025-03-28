@@ -1,0 +1,311 @@
+[
+    {
+        "name": {
+            "english": "Chaitra",
+            "hindi": "चैत्र"
+        },
+        "dates": {
+            "english": "March-April",
+            "hindi": "मार्च-अप्रैल"
+        },
+        "image": "1.jpg",
+        "description": {
+            "english": "Chaitra is the first month of the Hindu calendar. It marks the beginning of the new year in several Indian calendars. The festival of Chaitra Navratri is celebrated during this month.As nature renews itself, Chaitra marks the Hindu New Year. Neem trees blossom while koels begin their melodic calls. Farmers celebrate the first harvest with mango leaf toranas.",
+            "hindi": "चैत्र हिंदू कैलेंडर का पहला महीना है। यह कई भारतीय कैलेंडर में नए साल की शुरुआत का प्रतीक है। इस महीने में चैत्र नवरात्रि का त्योहार मनाया जाता है। प्रकृति के नवजीवन का महीना। नीम के फूल खिलते हैं और कोयल की मधुर आवाज़ गूंजती है। आम के पत्तों से सजे घरों में नववर्ष का स्वागत होता है।"
+        },
+        "events": {
+            "english": [
+                "March 22: Gudi Padwa/Ugadi - New Year in Maharashtra, Goa, Karnataka",
+                "March 30: Ram Navami - Birthday of Lord Rama",
+                "April 5-13: Chaitra Navratri - Nine-day worship of Goddess Durga"
+            ],
+            "hindi": [
+                "२२ मार्च: गुढी पाडवा/उगादी - महाराष्ट्र, गोवा, कर्नाटक में नववर्ष",
+                "३० मार्च: राम नवमी - भगवान राम का जन्मदिन",
+                "५-१३ अप्रैल: चैत्र नवरात्रि - नौ दिनों तक देवी दुर्गा की पूजा"
+            ]
+        }
+
+    },
+    {
+        "name": {
+            "english": "Vaishakha",
+            "hindi": "वैशाख"
+        },
+        "dates": {
+            "english": "April-May",
+            "hindi": "अप्रैल-मई"
+        },
+        "image": "1.jpg",
+        "description": {
+            "english": "Vaishakha is considered an auspicious month for Hindus. The festival of Akshaya Tritiya and Buddha Purnima are celebrated during this month. The sun reaches its zenith as temperatures soar above 45°C. Golden wheat fields ripple in hot winds while water pots develop algae in dwindling wells.",
+            "hindi": "वैशाख हिंदुओं के लिए एक शुभ महीना माना जाता है। इस महीने में अक्षय तृतीया और बुद्ध पूर्णिमा का त्योहार मनाया जाता है। चिलचिलाती धूप में गेहूं की सुनहरी फसल लहराती है। कुएँ सूखने लगते हैं और मटकों पर हरे शैवाल उग आते हैं।"
+        },
+        "events": {
+            "english": [
+                "May 10: Akshaya Tritiya - Most auspicious day to buy gold",
+                "May 18: Buddha Purnima - Birth anniversary of Gautama Buddha"
+            ],
+            "hindi": [
+                "१० मई: अक्षय तृतीया - सोना खरीदने का सबसे शुभ दिन",
+                "१८ मई: बुद्ध पूर्णिमा - गौतम बुद्ध का जन्मदिन"
+            ]
+        }
+
+    },
+    {
+        "name": {
+            "english": "Jyeshtha",
+            "hindi": "ज्येष्ठ"
+        },
+        "dates": {
+            "english": "May-June",
+            "hindi": "मई-जून"
+        },
+        "image": "3.jpg",
+        "description": {
+            "english": "Jyeshtha is known for its intense heat in India. The Vat Purnima festival is celebrated by married women during this month. Earth cracks under relentless heat. Desert animals seek shade under khejri trees while women carry water pots wrapped in cooling wet cloth.",
+            "hindi": "ज्येष्ठ भारत में अपनी तीव्र गर्मी के लिए जाना जाता है। इस महीने में विवाहित महिलाओं द्वारा वट पूर्णिमा का त्योहार मनाया जाता है। धरती फटने लगती है। रेगिस्तान में कैर के पेड़ों के नीचे जानवर छाया ढूंढते हैं। गीले कपड़े में लिपटे मटके ले जाती महिलाएँ।"
+        },
+        "events": {
+            "english": [
+                "June 4: Vat Savitri - Women worship banyan trees",
+                "June 12: Ganga Dussehra - Descent of River Ganga to Earth"
+            ],
+            "hindi": [
+                "४ जून: वट सावित्री - महिलाएं बरगद की पूजा करती हैं",
+                "१२ जून: गंगा दशहरा - गंगा नदी के धरती पर अवतरण"
+            ]
+        }
+    },
+    {
+        "name": {
+            "english": "Ashadha",
+            "hindi": "आषाढ़"
+        },
+        "dates": {
+            "english": "June-July",
+            "hindi": "जून-जुलाई"
+        },
+        "image": "4.jpg",
+        "description": {
+            "english": "Ashadha is the month when the monsoon typically begins in India. The Rath Yatra festival is celebrated during this month. First monsoon showers drench Kerala, releasing the earthy petrichor fragrance. Frogs begin their nocturnal symphonies in newly filled ponds.",
+            "hindi": "आषाढ़ वह महीना है जब भारत में आमतौर पर मानसून शुरू होता है। इस महीने में रथ यात्रा का त्योहार मनाया जाता है। केरल में पहली बारिश के साथ मिट्टी की सुगंध हवा में घुल जाती है। तालाबों में टर्राते मेंढकों की रातभर सुरीली प्रार्थना।"
+        },
+        "events": {
+            "english": [
+                "July 7: Rath Yatra - Chariot festival in Puri",
+                "July 13: Guru Purnima - Day to honor spiritual teachers"
+            ],
+            "hindi": [
+                "७ जुलाई: रथ यात्रा - जगन्नाथ पुरी की शोभायात्रा",
+                "१३ जुलाई: गुरु पूर्णिमा - गुरुओं को समर्पित दिन"
+            ]
+        }
+    },
+    {
+        "name": {
+            "english": "Shravana",
+            "hindi": "श्रावण"
+        },
+        "dates": {
+            "english": "July-August",
+            "hindi": "जुलाई-अगस्त"
+        },
+        "image": "5.jpg",
+        "description": {
+            "english": "Shravana is considered highly auspicious. Many important festivals like Raksha Bandhan, Krishna Janmashtami, and Nag Panchami are celebrated during this month. Peacocks dance as jhoolas swing under banyan trees during Teej. The smell of wet soil mingles with temple incense during Raksha Bandhan.",
+            "hindi": "श्रावण को अत्यंत शुभ माना जाता है। इस महीने में रक्षा बंधन, कृष्ण जन्माष्टमी और नाग पंचमी जैसे कई महत्वपूर्ण त्योहार मनाए जाते हैं। टेसू के फूलों के बीच झूलते हुए मोर नाचते हैं। रक्षाबंधन पर मंदिरों की धूपभरी खुशबू।"
+        },
+        "events": {
+            "english": [
+                "August 8: Nag Panchami - Worship of snakes",
+                "August 12: Raksha Bandhan - Brother-sister sacred bond",
+                "August 18: Janmashtami - Birthday of Lord Krishna"
+            ],
+            "hindi": [
+                "८ अगस्त: नाग पंचमी - सांपों की पूजा",
+                "१२ अगस्त: रक्षाबंधन - भाई-बहन का पवित्र बंधन",
+                "१८ अगस्त: कृष्ण जन्माष्टमी - भगवान कृष्ण का जन्मदिन"
+            ]
+        }
+    },
+    {
+        "name": {
+            "english": "Bhadrapada",
+            "hindi": "भाद्रपद"
+        },
+        "dates": {
+            "english": "August-September",
+            "hindi": "अगस्त-सितंबर"
+        },
+        "image": "6.jpg",
+        "description": {
+            "english": "Bhadrapada is known for festivals like Ganesh Chaturthi and Onam. The Pitru Paksha period also begins in this month. Ganesha idols dominate streets while Kerala prepares snake boats for Onam. Simultaneously, families honor ancestors during Pitru Paksha.",
+            "hindi": "भाद्रपद गणेश चतुर्थी और ओणम जैसे त्योहारों के लिए जाना जाता है। पितृ पक्ष की अवधि भी इसी महीने में शुरू होती है। गणेश विसर्जन की धूम के बीच केरल में ओणम की तैयारियाँ। पितृ पक्ष में पूर्वजों को तर्पण।"
+        },
+        "events": {
+            "english": [
+                "September 1: Ganesh Chaturthi - Arrival of Lord Ganesha",
+                "September 8-17: Onam - Kerala's harvest festival"
+            ],
+            "hindi": [
+                "१ सितंबर: गणेश चतुर्थी - भगवान गणेश का आगमन",
+                "८-१७ सितंबर: ओणम - केरल का फसल उत्सव"
+            ]
+        }
+    },
+    {
+        "name": {
+            "english": "Ashwin",
+            "hindi": "अश्विन"
+        },
+        "dates": {
+            "english": "September-October",
+            "hindi": "सितंबर-अक्टूबर"
+        },
+        "image": "7.jpg",
+        "description": {
+            "english": "Ashwin is famous for the festivals of Navratri, Durga Puja, and Dussehra. The season of Sharad begins in this month. Durga Puja pandals become art galleries while Vijaya Dashami sees Ravana effigies burn amid drumbeats.",
+            "hindi": "अश्विन नवरात्रि, दुर्गा पूजा और दशहरा त्योहारों के लिए प्रसिद्ध है। शरद ऋतु इसी महीने में शुरू होती है। दुर्गा पंडाल कला दीर्घाएं बन जाते हैं। विजयादशमी पर रावण के पुतले जलते हैं।"
+        },
+        "events": {
+            "english": [
+                "October 3-12: Navratri - Nine nights of dance",
+                "October 9-13: Durga Puja - Bengal's grand festival",
+                "October 15: Dussehra - Victory of good over evil"
+            ],
+            "hindi": [
+                "३-१२ अक्टूबर: नवरात्रि - नौ रातों का नृत्य",
+                "९-१३ अक्टूबर: दुर्गा पूजा - बंगाल का महोत्सव",
+                "१५ अक्टूबर: दशहरा - बुराई पर अच्छाई की जीत"
+            ]
+        }
+    
+    },
+    {
+        "name": {
+            "english": "Kartika",
+            "hindi": "कार्तिक"
+        },
+        "dates": {
+            "english": "October-November",
+            "hindi": "अक्टूबर-नवंबर"
+        },
+        "image": "8.jpg",
+        "description": {
+            "english": "Kartika is considered the holiest month in the Hindu calendar. Diwali, the festival of lights, is celebrated during this month. Diwali transforms Ayodhya into a sea of lamps while Dev Deepawali illuminates Varanasi’s ghats with millions of diyas.",
+            "hindi": "कार्तिक हिंदू कैलेंडर का सबसे पवित्र महीना माना जाता है। इस महीने में दीपों का त्योहार दिवाली मनाया जाता  है। दीपावली पर अयोध्या दीयों से जगमगाती है। देव दीपावली पर वाराणसी के घाट लाखों दीपों से नहाते हैं।"
+        },
+        "events": {
+            "english": [
+                "November 1: Diwali - Festival of lights",
+                "November 3: Bhai Dooj - Second brother-sister festival"
+            ],
+            "hindi": [
+                "१ नवंबर: दीपावली - रोशनी का त्योहार",
+                "३ नवंबर: भाई दूज - भाई-बहन का दूसरा पर्व"
+            ]
+        }
+    },
+    {
+        "name": {
+            "english": "Agrahayana",
+            "hindi": "अग्रहायण"
+        },
+        "dates": {
+            "english": "November-December",
+            "hindi": "नवंबर-दिसंबर"
+        },
+        "image": "9.jpg",
+        "description": {
+            "english": "Agrahayana marks the beginning of the winter season. The festival of Guru Nanak Jayanti is celebrated during this month. Chhath devotees stand waist-deep in rivers at sunrise while farmers harvest winter crops.",
+            "hindi": "अग्रहायण सर्दियों के मौसम की शुरुआत का प्रतीक है। इस महीने में गुरु नानक जयंती का त्योहार मनाया जाता है। छठ पर्व में उगते सूरज को अर्घ्य देती महिलाएं। किसान रबी की फसल काटते हैं।"
+        },
+        "events": {
+            "english": [
+                "December 10: Vivah Panchami - Rama-Sita marriage",
+                "December 11: Gita Jayanti - Birth of Bhagavad Gita"
+            ],
+            "hindi": [
+                "१० दिसंबर: विवाह पंचमी - राम-सीता विवाह",
+                "११ दिसंबर: गीता जयंती - श्रीमद्भगवद्गीता का जन्म"
+            ]
+        }
+    },
+    {
+        "name": {
+            "english": "Pausha",
+            "hindi": "पौष"
+        },
+        "dates": {
+            "english": "December-January",
+            "hindi": "दिसंबर-जनवरी"
+        },
+        "image": "10.jpg",
+        "description": {
+            "english": "Pausha is known for the winter solstice. The festival of Makar Sankranti is prepared for during this month. Siberian cranes arrive at Bharatpur as Lohri bonfires light up Punjab’s winter nights.",
+            "hindi": "पौष शीतकालीन संक्रांति के लिए जाना जाता है। इस महीने में मकर संक्रांति की तैयारी की जाती है। भरतपुर में साइबेरियाई सारस आते हैं। लोहड़ी की आग पंजाब की रातों को रोशन करती है।"
+        },
+        "events": {
+            "english": [
+                "January 13: Lohri - Punjab's harvest bonfire",
+                "January 14: Makar Sankranti - Sun enters Capricorn"
+            ],
+            "hindi": [
+                "१३ जनवरी: लोहड़ी - पंजाब का फसल उत्सव",
+                "१४ जनवरी: मकर संक्रांति - सूर्य मकर राशि में"
+            ]
+        }
+    },
+    {
+        "name": {
+            "english": "Magha",
+            "hindi": "माघ"
+        },
+        "dates": {
+            "english": "January-February",
+            "hindi": "जनवरी-फरवरी"
+        },
+        "image": "11.jpg",
+        "description": {
+            "english": "Magha is associated with the Kumbh Mela. The festival of Vasant Panchami is celebrated during this month.Saraswati Puja sees students place books before the goddess while Kumbh Mela pilgrims bathe at Sangam.",
+            "hindi": "माघ कुंभ मेला से जुड़ा हुआ है। इस महीने में वसंत पंचमी का त्योहार मनाया जाता है। सरस्वती पूजा पर विद्यार्थी पुस्तकें चढ़ाते हैं। कुंभ में संगम पर श्रद्धालु स्नान करते हैं।"
+        },
+        "events": {
+            "english": [
+                "January 25: Vasant Panchami - Worship of Saraswati",
+                "February 18: Maha Shivratri - Night of Lord Shiva"
+            ],
+            "hindi": [
+                "२५ जनवरी: वसंत पंचमी - सरस्वती पूजा",
+                "१८ फरवरी: महा शिवरात्रि - शिव की महान रात"
+            ]
+        }
+    },
+    {
+        "name": {
+            "english": "Phalguna",
+            "hindi": "फाल्गुन"
+        },
+        "dates": {
+            "english": "February-March",
+            "hindi": "फरवरी-मार्च"
+        },
+        "image": "12.jpg",
+        "description": {
+            "english": "Phalguna is the last month of the Hindu calendar. The colorful festival of Holi is celebrated during this month. Holi’s gulal clouds mask winter’s farewell as semul trees explode with red blooms.",
+            "hindi": "फाल्गुन हिंदू कैलेंडर का अंतिम महीना है। इस महीने में रंगों का त्योहार होली मनाया जाता है। होली के रंगों में सर्दी की विदाई। सेमल के पेड़ लाल फूलों से भर जाते हैं।"
+        },
+        "events": {
+            "english": [
+                "March 8: Holika Dahan - Bonfire night before Holi",
+                "March 9: Holi - Festival of colors"
+            ],
+            "hindi": [
+                "८ मार्च: होलिका दहन - होली से पहले की अग्नि पूजा",
+                "९ मार्च: होली - रंगों का त्योहार"
+            ]
+        }
+    }
+]
