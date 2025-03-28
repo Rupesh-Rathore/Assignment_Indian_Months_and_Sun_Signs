@@ -33,4 +33,17 @@ A web-based project that displays Indian months and Indian sun signs with an int
     * Completed the code of "script.js".
     * Created a "month.js" file inside "js" and completed its code which helps to manipulate "month.html" and fetch data from it.
     * Created a "zodiac.js" file inside "js" and completed its code which helps to manipulate "zodiac.html" and fetch data from it.
-      
+# DAY 4 :
+ * Firstly done research on Indian Months and Indian Sun-Signs/Zodiacs and found importain details about them.
+ * Using Some tools like -
+    * AI - "DeepSeek" and "Gemini"
+    * Google
+    * Websites like "drikpanchang.com", "exoticindiaart.com" , etc
+      found relevent ,precise and breif details abount Indian Months and Indian Sun-Signs/Zodiacs.
+ * Most of the data found was in "English" and to get data in "Hindi" , translated the english data using ai tools.
+ * With this "English" and "Hindi" data created two "json" files -
+    * "months.json" contains details about the months.
+    * "zodiacs.json" contains details about the sun-signs/zodiacs.
+ * Half way through generating images for representing months and zodiacs.
+ * Half way through completing the style (CSS) of the website but will not be updating on github today.
+   for now thats all i did.
