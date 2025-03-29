@@ -33,6 +33,7 @@ A web-based project that displays Indian months and Indian sun signs with an int
     * Completed the code of "script.js".
     * Created a "month.js" file inside "js" and completed its code which helps to manipulate "month.html" and fetch data from it.
     * Created a "zodiac.js" file inside "js" and completed its code which helps to manipulate "zodiac.html" and fetch data from it.
+      
 # DAY 4 :
  * Firstly done research on Indian Months and Indian Sun-Signs/Zodiacs and found importain details about them.
  * Using Some tools like -
@@ -47,3 +48,30 @@ A web-based project that displays Indian months and Indian sun signs with an int
  * Half way through generating images for representing months and zodiacs.
  * Half way through completing the style (CSS) of the website but will not be updating on github today.
    for now thats all i did.
+
+# DAY 5 :
+ * Started thw work by running all the html file again and again to find bugs, UI distortions and what could be improved ,and their were a lot -
+    * First of all website was looking too bland .
+    * Second - a 'bug' which was that on clicking on cards/blocks( months/zodiacs ) the card that opens up was not scrollable, meaning that if a card has a preety good amount of content then to see the content that is not being displayed you have to scroll the card and card was not scrolling at all.
+    * Third - a 'new bug' was introduced when the previous bug was taken care of -
+       * Now card was scrollable but iisue was that background/webpage was being scrolled too and it led to disappearance of card.
+    * Fourth - after solving the 'second' bug it led to a new bug - Every thing was fine for first 'three' card when clicking on them the card opened up and you could see the details but for the cards on the lower side , card was being opened on the top of the webpage and you had to manually scroll back to top to see the details it was not scrolling back to it on its own.
+    * Fifth - when I was trying to solve 'third' a new inconvenience was encountered that on clicking the lowwer cards it was still being opened on top of the webpage but now the window was being freezed too.
+
+ * Solved all these bugs by tuning script.js, month.js, zodiac.js and style.css -
+    * Updated some of the functions in javaScript files. functions like -
+       * "setupmodal","openmodal"
+    * Added some functions to javaScript files. functions like -
+       * "closemodal"
+    * Some more tuning using css.
+ * To improve the quality of website and create a visually appealing website updated "style.css" file by -
+   * Changed the color scheme from solid to gradient.
+   * Added animations like -
+      * Hover effect to cards.
+      * Clicking transition.
+      * card opening transition.
+      * page changing transition.
+   * Added shadows to many elements like -
+      * Header.
+      * Cards.
+   
