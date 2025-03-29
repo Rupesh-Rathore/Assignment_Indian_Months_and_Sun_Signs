@@ -83,14 +83,17 @@ function displayMonths(monthsData) {
 function setupModal() {
     const modal = document.getElementById('monthModal');
     const closeBtn = document.querySelector('.close');
-    
+    /*
     closeBtn.addEventListener('click', () => {
         modal.style.display = 'none';
-    });
+    });*/
+    closeBtn.addEventListener('click', closeModal);
     
     window.addEventListener('click', (event) => {
         if (event.target === modal) {
-            modal.style.display = 'none';
+            closeModal();
+            /*
+            modal.style.display = 'none';*/
         }
     });
 }
@@ -100,15 +103,26 @@ function openModal(month) {
     const modalImage = document.getElementById('modalImage');
     const modalTitle = document.getElementById('modalTitle');
     const modalDescription = document.getElementById('modalDescription');
+    const modalEvents = document.getElementById('modalEvents');
     
     const currentLanguage = localStorage.getItem('language') || 'english';
     
-    modalImage.src = `images/months/${month.image}`;
+    modalImage.src = `data/monthim/${month.image}`;
     modalImage.alt = month.name[currentLanguage];
     modalTitle.textContent = month.name[currentLanguage];
     modalDescription.textContent = month.description[currentLanguage];
-    
+    modalEvents.innerHTML = month.events[currentLanguage].map(event => 
+        `<li>${event}</li>`
+    ).join('');
     modal.style.display = 'block';
+    document.body.classList.add('body-no-scroll');
+    modal.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    modal.scrollTop = 0;
+}
+function closeModal() {
+    const modal = document.getElementById('monthModal');
+    modal.style.display = 'none';
+    document.body.classList.remove('body-no-scroll');
 }
 
 function changeLanguage(lang) {
