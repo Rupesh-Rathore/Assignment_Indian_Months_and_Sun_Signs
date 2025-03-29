@@ -3,22 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zodiacs</title>
+    <title>Indian Sun Signs - Nakshtra Nexus</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Zodiacs</h1>
-        <div id="zodiacsContainer"></div>
-    </div>
-    <div id="zodiacDetails" class="hidden">
-        <h2 id="zodiacName"></h2>
-        <p id="zodiacDescription"></p>
-        <button id="backButton">Back</button>
-    </div>
-<script>
-document.getElementById("backButton").onclick = function () {
-    window.location.href = "index.html";
-};
-</script>
+    <header>
+        <h1>Nakshtra Nexus</h1>
+        <div class="controls">
+            <div class="language-buttons">
+                <button class="language-btn active" id="englishBtn">English</button>
+                <button class="language-btn" id="hindiBtn">हिंदी</button>
+            </div>
+            <label class="toggle-switch">
+                <input type="checkbox" id="darkModeToggle">
+                <span class="slider"></span>
+            </label>
+        </div>
+    </header>
+    
+    <main>
+        <h2>Indian Sun Signs</h2>
+        <div class="grid-container" id="zodiacsGrid"></div>
+        
+        <div class="modal" id="zodiacModal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <img id="modalImage" src="" alt="Zodiac Image">
+                <h3 id="modalTitle"></h3>
+                <p id="modalDescription"></p>
+            </div>
+        </div>
+    </main>
+
+    <script src="js/zodiac.js"></script>
 </body>
 </html>
