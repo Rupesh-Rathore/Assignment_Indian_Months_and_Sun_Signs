@@ -52,7 +52,7 @@ A web-based project that displays Indian months and Indian sun signs with an int
 # DAY 5 :
  * Started thw work by running all the html file again and again to find bugs, UI distortions and what could be improved ,and their were a lot -
     * First of all website was looking too bland .
-    * Second - a 'bug' which was that on clicking on cards/blocks( months/zodiacs ) the card that opens up was not scrollable, meaning that if a card has a preety good amount of content then to see the content that is not being displayed you have to scroll the card and card was not scrolling at all.
+    * Second - a 'bug' which was , that on clicking on cards/blocks( months/zodiacs ) the card that opens up was not scrollable, meaning that if a card has a preety good amount of content then to see the content that is not being displayed you have to scroll the card and card was not scrolling at all.
     * Third - a 'new bug' was introduced when the previous bug was taken care of -
        * Now card was scrollable but iisue was that background/webpage was being scrolled too and it led to disappearance of card.
     * Fourth - after solving the 'second' bug it led to a new bug - Every thing was fine for first 'three' card when clicking on them the card opened up and you could see the details but for the cards on the lower side , card was being opened on the top of the webpage and you had to manually scroll back to top to see the details it was not scrolling back to it on its own.
