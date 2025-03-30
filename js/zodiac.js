@@ -110,7 +110,9 @@ function openModal(zodiac) {
     modalImage.alt = zodiac.name[currentLanguage];
     modalTitle.textContent = zodiac.name[currentLanguage];
     modalDescription.textContent = zodiac.description[currentLanguage];
-    
+    modalPoints.innerHTML=zodiac.points[currentLanguage].map(point =>
+        `<li>${point}</li>`
+    ).join('');
     modal.style.display = 'block';
 }
 
