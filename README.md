@@ -74,4 +74,38 @@ A web-based project that displays Indian months and Indian sun signs with an int
    * Added shadows to many elements like -
       * Header.
       * Cards.
-   
+
+# DAY 6 :
+ * Problem Identification & Solution Implementation:
+   * Identified language switching issue where the <h2> heading wasn't translating to Hindi.
+   * Implemented a JavaScript solution without modifying existing JSON files.
+   * Created a translations object with English/Hindi versions of the heading text:
+      const translations = { english: { monthsTitle: "Indian Months" }, hindi: { monthsTitle: "भारतीय महीने" }};
+ * code Modifications:
+  * Initialization:
+   * Updated initializePage() to set correct heading text on first load.
+   * Used localStorage to maintain language preference consistency.
+  * Language Switching:
+   * Enhanced changeLanguage() function to:
+    * Update the <h2> text dynamically.
+    * Maintain all existing functionality (dark mode, etc.).
+    * Preserve the clean DOM structure without adding extra HTML elements.
+  * Event Handling:
+   * Maintained existing button click handlers.
+   * Added seamless heading updates during language toggles.
+ * Key Improvements:
+  * Achieved complete UI translation without backend/JSON changes.
+  * Maintained clean code architecture.
+  * Added scalable translation structure (can easily add more phrases).
+  * Preserved all existing functionality (dark mode, etc.).
+ * Testing Considerations:
+  * Verified heading updates properly on:
+   * Initial page load.
+   * Language switches.
+   * Page refreshes.
+   * Across different viewport sizes.
+  * Confirmed dark mode works independently.
+  * Checked localStorage persistence.
+ * Updated both the json files by adding more relevent data.
+ * Updated css file.
+ * Updated Script files.
