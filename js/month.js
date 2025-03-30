@@ -1,3 +1,11 @@
+const translations = {
+    english: {
+        monthsTitle: "Indian Months"
+    },
+    hindi: {
+        monthsTitle: "भारतीय महीने"
+    }
+};
 // Initialize the page
 document.addEventListener('DOMContentLoaded', function() {
     // Set initial language and dark mode
@@ -10,7 +18,9 @@ document.addEventListener('DOMContentLoaded', function() {
 function initializePage() {
     const currentLanguage = localStorage.getItem('language') || 'english';
     document.documentElement.lang = currentLanguage === 'hindi' ? 'hi' : 'en';
-    
+    // Set the initial title
+    const heading = document.querySelector('main h2');
+    heading.textContent = translations[currentLanguage].monthsTitle;    
     // Set up dark mode
     const darkModeToggle = document.getElementById('darkModeToggle');
     if (localStorage.getItem('darkMode') === 'enabled') {
@@ -114,7 +124,7 @@ function openModal(month) {
     modalEvents.innerHTML = month.events[currentLanguage].map(event => 
         `<li>${event}</li>`
     ).join('');
-    modal.style.display = 'block';
+    modal.style.display = 'block';z
     document.body.classList.add('body-no-scroll');
     modal.scrollIntoView({ behavior: 'smooth', block: 'start' });
     modal.scrollTop = 0;
@@ -129,5 +139,7 @@ function changeLanguage(lang) {
     localStorage.setItem('language', lang);
     document.documentElement.lang = lang === 'hindi' ? 'hi' : 'en';
     document.body.classList.toggle('hindi', lang === 'hindi');
+    const heading = document.querySelector('main h2');
+    heading.textContent = translations[lang].monthsTitle;
     fetchMonthData();
 }
