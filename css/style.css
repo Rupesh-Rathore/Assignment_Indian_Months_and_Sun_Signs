@@ -91,7 +91,7 @@ header {
 }
 
 input:checked + .slider {
-    background:linear-gradient(to right,var(--primary-color),var(--secondary-color));
+    background-color: var(--primary-color);
 }
 
 input:checked + .slider:before {
@@ -221,11 +221,14 @@ main {
 #modalImage {
     width: 100%;
     max-height: 500px;
-    object-fit: contain;
+    object-fit:fill;
     margin-bottom: 1rem;
     border-radius: 2%;
 }
-
+#modalImage:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px var(--primary-color);
+}
 /* Responsive Adjustments */
 @media (max-width: 768px) {
     .grid-container {
