@@ -119,28 +119,28 @@ A web-based project that displays Indian months and Indian sun signs with an int
    * Added proper cleanup when modal closes.
    * Maintained existing modal functionality.
  * Testing & Debugging:
-  * Verified animation works on:
-  * Title (h3).
-  * Description (p).
-  * Events/Points (ul/li).
-  * Checked cross-browser compatibility.
-  * Ensured dark/light mode support.
+   * Verified animation works on:
+   * Title (h3).
+   * Description (p).
+   * Events/Points (ul/li).
+   * Checked cross-browser compatibility.
+   * Ensured dark/light mode support.
  * Final Solution Features:
-  * Smooth text shine animation on all text content.
-  * Works when clicking any card.
-  * Preserves original layout and styling.
-  * No impact on other modal functionality.
-  * Proper memory management.
+   * Smooth text shine animation on all text content.
+   * Works when clicking any card.
+   * Preserves original layout and styling.
+   * No impact on other modal functionality.
+   * Proper memory management.
  * Key Technologies Used:
-  * CSS animations and transitions.
-  * Pseudo-elements (::after).
-  * CSS custom properties (variables).
-  * Feature detection (@supports).
+   * CSS animations and transitions.
+   * Pseudo-elements (::after).
+   * CSS custom properties (variables).
+   * Feature detection (@supports).
  * Outcome:
-  * Successfully implemented the desired animation.
-  * Resolved compatibility issues.
-  * Maintained all existing functionality.
-  * Created a maintainable solution.
+   * Successfully implemented the desired animation.
+   * Resolved compatibility issues.
+   * Maintained all existing functionality.
+   * Created a maintainable solution.
 
 With my current knowledge and time avilable this is the best i could do.
 It could be a lot better and i will work on it.
