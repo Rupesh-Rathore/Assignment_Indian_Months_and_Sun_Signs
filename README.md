@@ -152,5 +152,3 @@ It could be a lot better and i will work on it.
 ![image](https://github.com/user-attachments/assets/efea49e6-b7ce-4f52-8a1c-9d26f0809120)
 ![image](https://github.com/user-attachments/assets/0dc4c4a0-72b1-4d88-987c-fb03ea464657)
 ![image](https://github.com/user-attachments/assets/0c6c79cf-df02-4ded-9cf5-de053915d199)
-
-
