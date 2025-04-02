@@ -145,4 +145,12 @@ A web-based project that displays Indian months and Indian sun signs with an int
 With my current knowledge and time avilable this is the best i could do.
 It could be a lot better and i will work on it.
 ![image](https://github.com/user-attachments/assets/8aa61bad-46f5-4cc5-a9f1-778468b2ad59)
+![image](https://github.com/user-attachments/assets/ebc33dd1-b0e5-4a74-b982-3afbd2091e32)
+![image](https://github.com/user-attachments/assets/d5c2176d-1fe1-4ca9-8936-2b1c7ebb4506)
+![image](https://github.com/user-attachments/assets/929ec6be-9ac9-432f-9a56-da5a64f0ff2b)
+![image](https://github.com/user-attachments/assets/fc2ce9b3-5b3c-45e5-8e08-c6658c809a0f)
+![image](https://github.com/user-attachments/assets/efea49e6-b7ce-4f52-8a1c-9d26f0809120)
+![image](https://github.com/user-attachments/assets/0dc4c4a0-72b1-4d88-987c-fb03ea464657)
+![image](https://github.com/user-attachments/assets/0c6c79cf-df02-4ded-9cf5-de053915d199)
+
 
