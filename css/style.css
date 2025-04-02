@@ -6,6 +6,7 @@
     --bg-color2:#e4cece;
     --card-bg: #ffffff;
     --header-bg: #ffffff;
+    --footer-social-bg:#e4cece;
 }
 .dark-mode {
     --primary-color: #7b1fa2;
@@ -15,10 +16,10 @@
     --bg-color2:#1e1e1e;
     --card-bg: #1e1e1e;
     --header-bg: #1e1e1e;
+    --footer-social-bg:#33353d;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;700&display=swap');
-
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
@@ -44,6 +45,59 @@ header {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
+}
+footer {
+    position: relative; 
+    margin: 40px auto 40px;    
+    width: 90%;             
+    max-width: 1200px;      
+    padding: 20px;           
+    background-color: var(--header-bg);      
+    border-radius: 15px;     
+    box-shadow: 0 2px 5px var(--primary-color);
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.site-footer h4 {
+    color: var(--text-color);
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-top: 5px;
+    letter-spacing: 2px;
+  }
+.site-footer a {
+    color: #737373;
+  }
+.site-footer a:hover {
+    color: var(--primary-color);
+    text-decoration: none;
+  }
+.footer-col {
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 15px;
+  }
+  .social-links a {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: var(--footer-social-bg);
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all 0.5s ease;
+  }
+  .social-links a:hover {
+    color: var(--text-color);
+    background: linear-gradient(to right,var(--primary-color),var(--secondary-color));
+  }
+.copyright {
+    text-align: center;
+    padding-top:5px;
 }
 
 .controls {
