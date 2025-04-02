@@ -144,3 +144,22 @@ A web-based project that displays Indian months and Indian sun signs with an int
 
 With my current knowledge and time avilable this is the best i could do.
 It could be a lot better and i will work on it.
+
+![image](https://github.com/user-attachments/assets/0075d290-1743-4feb-90be-1920c5f8fea5)
+![image](https://github.com/user-attachments/assets/e555bf15-2191-45cd-8309-657b603367fd)
+![image](https://github.com/user-attachments/assets/2ce787de-5113-4643-ab19-94020e8cf99e)
+![image](https://github.com/user-attachments/assets/f2d5aad6-fbe3-4a0a-ab31-c879f66bc332)
+![image](https://github.com/user-attachments/assets/fa1ee004-c60c-46d9-ac92-6c8185c7a8e2)
+![image](https://github.com/user-attachments/assets/f9f9a18e-0022-497c-bc25-e25ce78ecad0)
+![image](https://github.com/user-attachments/assets/330c9f8b-b29d-49d3-83af-8a05531e089e)
+![image](https://github.com/user-attachments/assets/17f18cc2-99a9-4c07-bb3f-3ac533fb707b)
+![image](https://github.com/user-attachments/assets/d53ecb3e-d4b7-4c6c-aad0-806cd8b46b2f)
+![image](https://github.com/user-attachments/assets/4872e036-f888-4413-9ac5-53f7404ed9c9)
+![image](https://github.com/user-attachments/assets/ca97b799-d7a0-4a89-a19c-bab78117de93)
+![image](https://github.com/user-attachments/assets/18ddccab-74ad-4de3-8f4b-642a5049652f)
+![image](https://github.com/user-attachments/assets/ad4bdbf5-11f0-4be7-858a-f5aabe9e5fac)
+![image](https://github.com/user-attachments/assets/b4f465fc-be31-4223-9875-bac2775914f5)
+![image](https://github.com/user-attachments/assets/6ea560e6-5b1f-40f1-908d-fec677926eeb)
+
+
+
