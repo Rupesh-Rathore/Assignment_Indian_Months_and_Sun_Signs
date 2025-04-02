@@ -248,6 +248,7 @@ main {
 .modal {
     display: none;
     position:fixed;
+    object-fit:fill;
     z-index: 1000;
     left: 0;
     top: 0;
